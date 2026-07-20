@@ -74,18 +74,6 @@ public:
 
 ---
 
-# ⏳ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked yet.
-```
-
-<!--END_SECTION:waka-->
-
----
-
 # 🚀 Featured Projects
 
 | Project         | Description                                      |
@@ -110,6 +98,18 @@ No activity tracked yet.
 
 ---
 
+# ⏳ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked yet.
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 # 📈 Activity Graph
 
 <p align="center">
@@ -129,7 +129,7 @@ No activity tracked yet.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaCodess&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaCodess&theme=algolia&no-frame=true&column=4"/>P
 </p>
 
 ---
