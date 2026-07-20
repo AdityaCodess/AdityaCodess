@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=Aditya%20Bhalla&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Game%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=Aditya%20Bhalla&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Enthusiast%20|%20Game%20Developer&descAlignY=60"/>
 
 # 👋 Hey, I'm Aditya
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence;Distributed+Systems;Game+Development;Always+Building+Something+Cool"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Developer;Artificial+Intelligence;Distributed+Systems;Game+Development;Always+Building+Something+Cool"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=AdityaCodess&style=for-the-badge&color=2563eb"/>
@@ -15,34 +15,34 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```cpp
-class AdityaBhalla {
-public:
-    string role = "Full Stack Developer";
+```bash
+$ whoami
 
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Distributed Systems",
-        "Cybersecurity",
-        "Game Development",
-        "Open Source"
-    };
+Name        :: Aditya Bhalla
+Role        :: Software Developer
+Education   :: B.Tech CSE
+Location    :: India
 
-    void currentFocus() {
-        cout << "🚀 Building scalable software\n";
-        cout << "🤖 Exploring Local LLMs\n";
-        cout << "🎮 Creating games with Unity\n";
-    }
-};
+Current Focus
+-------------
+→ Building scalable web applications
+→ Exploring AI & Local LLMs
+→ Developing multiplayer systems
+→ Creating games with Unity
+
+Interests
+---------
+AI • Distributed Systems • Web Development
+Game Development • Cybersecurity
 ```
 
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🤖 AI Enthusiast
-- 🎮 Unity Developer
-- 🌱 Learning every day
+- B.Tech CSE Student
+- Software Developer
+- AI Developer
+- Unity Developer
+- Learning every day
 
 ---
 
@@ -76,12 +76,11 @@ public:
 
 # 🚀 Featured Projects
 
-| Project         | Description                                      |
-| --------------- | ------------------------------------------------ |
-| 🔐 PhotonKey    | Quantum Key Distribution mission design platform |
-| 🌍 GroundZero   | Real-time multiplayer engine                     |
-| 🛡️ AegisGRID    | Cybersecurity simulation framework               |
-| 🎮 BobbyTheBlob | Physics-based Unity rage game                    |
+| Project    | Description                                      |
+| ---------- | ------------------------------------------------ |
+| PhotonKey  | Quantum Key Distribution mission design platform |
+| GroundZero | Real-time multiplayer engine                     |
+| AegisGRID  | Cybersecurity simulation framework               |
 
 ---
 
