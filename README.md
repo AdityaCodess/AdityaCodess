@@ -17,10 +17,9 @@
 
 # 💫 About Me
 
-```cpp
 class AdityaBhalla {
 public:
-    string role = "Full Stack Developer";
+string role = "Full Stack Developer";
 
     vector<string> interests = {
         "Artificial Intelligence",
@@ -35,8 +34,8 @@ public:
         cout << "🤖 Exploring Local LLMs\n";
         cout << "🎮 Creating games with Unity\n";
     }
+
 };
-```
 
 - 🎓 B.Tech CSE Student
 - 💻 Full Stack Developer
