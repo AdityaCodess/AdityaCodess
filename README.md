@@ -17,9 +17,10 @@
 
 # 💫 About Me
 
+```cpp
 class AdityaBhalla {
 public:
-string role = "Full Stack Developer";
+    string role = "Full Stack Developer";
 
     vector<string> interests = {
         "Artificial Intelligence",
@@ -34,8 +35,8 @@ string role = "Full Stack Developer";
         cout << "🤖 Exploring Local LLMs\n";
         cout << "🎮 Creating games with Unity\n";
     }
-
 };
+```
 
 - 🎓 B.Tech CSE Student
 - 💻 Full Stack Developer
@@ -73,6 +74,18 @@ string role = "Full Stack Developer";
 
 ---
 
+# ⏳ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked yet.
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 # 🚀 Featured Projects
 
 | Project         | Description                                      |
@@ -101,6 +114,14 @@ string role = "Full Stack Developer";
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaCodess&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
