@@ -76,11 +76,15 @@ Game Development • Cybersecurity
 
 # 🚀 Featured Projects
 
-| Project    | Description                                      |
-| ---------- | ------------------------------------------------ |
-| PhotonKey  | Quantum Key Distribution mission design platform |
-| GroundZero | Real-time multiplayer engine                     |
-| AegisGRID  | Cybersecurity simulation framework               |
+<div align="center">
+
+|                                                                  Project                                                                  | Description                                                                                                                                               | Tech                            |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <a href="https://github.com/AdityaCodess/PhotonKey"><img src="https://img.shields.io/badge/🔐-PhotonKey-0A84FF?style=for-the-badge"/></a> | High-fidelity Quantum Key Distribution mission design & simulation platform featuring orbital modeling, visualization, and secure communication analysis. | `Python` `Matplotlib` `Physics` |
+|     <a href="https://groundzerohq.netlify.app"><img src="https://img.shields.io/badge/🌍-GroundZero-22C55E?style=for-the-badge"/></a>     | Real-time multiplayer strategy engine with WebSockets, browser rendering, AI-powered gameplay and scalable networking.                                    | `Node.js` `WebSockets` `WebGL`  |
+| <a href="https://github.com/AdityaCodess/AegisGRID"><img src="https://img.shields.io/badge/🛡️-AegisGRID-E11D48?style=for-the-badge"/></a> | Predictive cybersecurity framework for critical infrastructure monitoring and intelligent anomaly detection.                                              | `Python` `AI` `Analytics`       |
+
+</div>
 
 ---
 
