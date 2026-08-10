@@ -13,17 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy SVG
+      - name: Generate trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: AdityaCodess
-          output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
+          theme: tokyonight
+          max-cols: 6
+          max-rows: 3
+          margin-width: 10
+          margin-height: 10
+          no-background: true
+          no-frame: true
 
-      - name: Commit Trophy SVG
+      - name: Commit trophy SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -31,7 +38,7 @@ jobs:
           git add trophy.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to trophy.svg"
+            echo "No changes to commit"
           else
             git commit -m "Update GitHub trophies"
             git push
