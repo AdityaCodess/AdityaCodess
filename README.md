@@ -132,7 +132,7 @@ No activity tracked yet.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaCodess&theme=algolia&no-frame=true&column=4"/>P
+  <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
