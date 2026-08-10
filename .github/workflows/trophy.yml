@@ -19,7 +19,7 @@ jobs:
       - name: Generate trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: AdityaCodess
+          username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           file: trophy.svg
           theme: tokyonight
