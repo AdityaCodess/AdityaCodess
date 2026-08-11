@@ -106,11 +106,11 @@ Game Development • Cybersecurity
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.65 %
-YAML         1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-Bash         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Git Config   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Prisma       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+TypeScript   3 hrs 3 mins    ████████████▓░░░░░░░░░░░░   51.21 %
+YAML         1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+Bash         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Git Config   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Prisma       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
