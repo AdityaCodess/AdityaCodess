@@ -106,11 +106,11 @@ Game Development • Cybersecurity
 <!--START_SECTION:waka-->
 
 ```txt
-Python       24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-JavaScript   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-TypeScript   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-YAML         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Text         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+JavaScript   1 hr 41 mins    █████████▓░░░░░░░░░░░░░░░   38.24 %
+Python       1 hr 23 mins    ████████░░░░░░░░░░░░░░░░░   31.50 %
+TypeScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
