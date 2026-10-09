@@ -106,10 +106,7 @@ Game Development • Cybersecurity
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          █████████████▒░░░░░░░░░░░   53.61 %
-CSS          4 mins          ██████████░░░░░░░░░░░░░░░   39.62 %
-Markdown     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
